@@ -1,0 +1,75 @@
+How to be in charge of SIGART
+
+About:
+    This document attempts to codify the information you need to know to be in charge of SIGART. Figure something out? Add it!
+
+How to do things:
+    Contacting people: 
+        The ACM officer's mailing list is acm@cs.purdue.edu. This includes administrators, appointees, SIG presidents, and whoever else we think might need to know things.
+        
+        The SIGART mailing list is sigart@cs.purdue.edu. Ownership of this list should be transfered along with SIG presidency. The mailing list can be modified from lab machines.
+            To add members: mailer add <username> to sigart
+            To delete members: mailer delete <username> from sigart
+            To list members: mailer list sigart
+            To change ownership: mailer maintainers sigart <username> <username> ...
+                Note: the maintainers command REPLACES the ownership list! Use it with caution, you can accidentally lose access.
+                
+    Reserving a room:
+        Small classrooms (like B134):
+            Go to https://roomschedule.mypurdue.purdue.edu/Timetabling/login.jsp (or just google "Purdue room reservation"), log in with your career account, go Events -> Add Event.
+            Search for the room and time you want.
+            Create/add the event.
+            Your event will need to be approved by somebody (Pam?), but it shouldn't be an issue for the small rooms.
+            
+        Large lecture halls (B151, B155, 1142):
+            You do not have permission to reserve these rooms yourself. Talk to the ACM VP or the event coordinator if you need them.
+            
+        Computer labs:
+            Computer labs cannot be reserved. Sorry.
+            
+    Accessing resources:
+        Getting CS accounts for non CS majors
+            Email Daniel Trinkle at accounts@cs.purdue.edu with the name and username of the member
+            Typically takes 24-72 hours
+            
+        Installing libraries
+            Email Daniel Trinkle at software@cs.purdue.edu with an explanation of why you need the library, and what machines you want it installed on. 
+            Typically takes > 1 week
+
+
+ACM Leadership Structure:
+    Officer's Council:
+        Administrative positions:
+            President
+                In charge of external relations, especially corporate partners. Leads weekly officer meetings.
+            Vice President
+                In charge of internal relations, with SIGs and to some extent the CS department. Ensures smooth running of day-to-day operations
+            Secretary
+                Takes notes at meetings, maintains google calendar and facebook page
+            Tresurer
+                Handles money
+
+        SIG presidents
+
+    Appointed positions (non-voting):
+        Webmaster
+        Server admin
+        Event coordinator
+        
+    Faculty Advisor: Tim Korb
+        If you're getting shit from people, especially the department, go to him and he might be able to help you out.
+
+    All "major" ACM decisions, including appointments, must be made by majority vote of the officer's council. All constitution revisions must me approved by a 2/3 majority.
+    
+    No member can hold two voting positions - that is, you can't be both, say, president of SIGART and treasurer of ACM.
+
+Transfer of power checklist:
+    Election
+    Introduce new president to Officer's Council
+    Transfer mailing list ownership
+    Put their name on the blame list (below)
+    
+Blame list:
+    Chris Nuland (Fall 2010)
+    Dan Roberts (Spring 2011 to Spring 2013)
+    Chris Wendt (Fall 2013 to Spring 2013)
