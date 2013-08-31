@@ -1,0 +1,26 @@
+2013.08.31
+    attendees
+        Chris Wendt
+        Anubhaw Arya
+    talking points
+        transfer of leadership from Dan Roberts and Chris Cole to Chris Wendt (Dan Roberts and Chris Cole graduated 2013.05)
+        SIGART should be a flat club in terms of hierarchy
+        Chris Wendt will be performing tasks needed by SIGART as a whole
+            setting up Git repositories
+            attending the weekly ACM meeetings
+            providing overall club guidance
+            sending update emails
+        project ideas
+            Robocode
+                initially build Robocode robots to try to beat stock robots and battle each other's robots
+            document reconstruction
+                shuffle pieces around and use edge detection to measure error
+                ultimate goal is to take a picture of shredded document and reconstruct it
+        SIGART repository and projects are on Github
+        balance fun, learning, and discussions
+    future
+        Chris Wendt will represent SIGART at the ACM callout 2013.09.03 6:00pm in Armstrong 1010
+        send out a whenisgood for meetings after the next meeting
+        next meeting
+            introduce newcomers to SIGART, past projects, and plans
+            set up Robocode development environments
