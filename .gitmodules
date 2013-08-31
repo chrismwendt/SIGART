@@ -1,0 +1,12 @@
+[submodule "Wumpus"]
+	path = Wumpus
+	url = https://github.com/Transfinity/Wumpus.git
+[submodule "fishtank"]
+	path = fishtank
+	url = https://github.com/cole14/fishtank.git
+[submodule "learningGit"]
+	path = learningGit
+	url = https://github.com/xybu92/learningGit.git
+[submodule "IRIS"]
+	path = IRIS
+	url = https://github.com/chrismwendt/IRIS.git
