@@ -10,3 +10,6 @@
 [submodule "IRIS"]
 	path = IRIS
 	url = https://github.com/chrismwendt/IRIS.git
+[submodule "pong"]
+	path = pong
+	url = https://github.com/chrismwendt/pong.git
