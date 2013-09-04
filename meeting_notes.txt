@@ -18,9 +18,13 @@
                 ultimate goal is to take a picture of shredded document and reconstruct it
         SIGART repository and projects are on Github
         balance fun, learning, and discussions
-    future
-        Chris Wendt will represent SIGART at the ACM callout 2013.09.03 6:00pm in Armstrong 1010
-        send out a whenisgood for meetings after the next meeting
-        next meeting
-            introduce newcomers to SIGART, past projects, and plans
-            set up Robocode development environments
+
+2013.09.07
+    plans
+        introduce newcomers to SIGART, past projects, and plans
+        add people to mailing list
+        list project ideas
+        ACM news: CS department is paying SIGs to populate tech talks this semester
+        perhaps set up Robocode development environments
+        send out whenisgood for good meeting times
+        send out link to Github repository
