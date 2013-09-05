@@ -25,6 +25,7 @@
         add people to mailing list
         list project ideas
         ACM news: CS department is paying SIGs to populate tech talks this semester
+        Isilon tech talk Sep 12 @12pm LWSN 3102
         perhaps set up Robocode development environments
         send out whenisgood for good meeting times
         send out link to Github repository
