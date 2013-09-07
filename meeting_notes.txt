@@ -20,12 +20,11 @@
         balance fun, learning, and discussions
 
 2013.09.07
-    plans
-        introduce newcomers to SIGART, past projects, and plans
-        add people to mailing list
-        list project ideas
-        ACM news: CS department is paying SIGs to populate tech talks this semester
-        Isilon tech talk Sep 12 @12pm LWSN 3102
-        perhaps set up Robocode development environments
-        send out whenisgood for good meeting times
-        send out link to Github repository
+    introduced newcomers to SIGART, past projects, and plans
+    added people to mailing list
+    ACM news: CS department is paying SIGs to populate tech talks this semester
+    Isilon tech talk Sep 12 @12pm LWSN 3102
+    set up Robocode development environments using robocode_setup.md
+    send out whenisgood for good meeting times
+    send out link to Github repository
+    send out article/concept to discuss next week
