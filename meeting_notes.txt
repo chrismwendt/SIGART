@@ -25,6 +25,6 @@
     ACM news: CS department is paying SIGs to populate tech talks this semester
     Isilon tech talk Sep 12 @12pm LWSN 3102
     set up Robocode development environments using robocode_setup.md
-    send out whenisgood for good meeting times
-    send out link to Github repository
-    send out article/concept to discuss next week
+    sent out whenisgood for good meeting times
+    sent out link to Github repository
+    sent out article/concept to discuss next week
