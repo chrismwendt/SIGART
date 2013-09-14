@@ -13,3 +13,6 @@
 [submodule "pong"]
 	path = pong
 	url = https://github.com/chrismwendt/pong.git
+[submodule "GeneticBot"]
+	path = GeneticBot
+	url = https://github.com/chrismwendt/GeneticBot.git
