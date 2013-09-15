@@ -30,11 +30,13 @@
     sent out article/concept to discuss next week
 
 2013.09.14
-    plan to give meeting overview
-    plan to announce upcoming events: Microsoft Puzzle Quest, Career Fair, VMware tech talk, Yelp tech talk
-    plan to mention that ACM is asking for members' names, emails, and resumes to sell to Corporate Partners
-    plan to mention that the CS department is paying ACM groups to populate tech talks
-    plan to discuss Chinese Room thought experiment
-    plan to ask for topic suggestions
-    plan to begin a Robocode robot based on genetic programming
-    plan to begin the document reconstruction project
+    announced upcoming events: Microsoft Puzzle Quest, Career Fair, VMware tech talk, Yelp tech talk
+    mentioned that ACM is asking for members' names, emails, and resumes to sell to Corporate Partners
+    mentioned that the CS department is paying ACM groups to populate tech talks
+    discussed Chinese Room thought experiment
+    asked for topic suggestions
+    began a Robocode robot based on genetic programming
+    
+2013.09.21
+    plan to write basic genetic programming functionality in GeneticBot
+    plan to begin the document reconstruction project if there is enough interest
