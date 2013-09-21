@@ -16,3 +16,6 @@
 [submodule "GeneticBot"]
 	path = GeneticBot
 	url = https://github.com/chrismwendt/GeneticBot.git
+[submodule "Document-Reconstruction"]
+	path = Document-Reconstruction
+	url = https://github.com/chrismwendt/Document-Reconstruction.git
