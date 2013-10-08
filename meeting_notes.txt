@@ -38,5 +38,13 @@
     began a Robocode robot based on genetic programming
     
 2013.09.21
-    plan to write basic genetic programming functionality in GeneticBot
-    plan to begin the document reconstruction project if there is enough interest
+    announced upcoming company days in ACM
+    discussed AGI (Artificial General Intelligence), malevolent AI, and self-aware robots
+    wrote some basic genetic programming functionality in GeneticBot, predicated firing based on an equation
+    began the document reconstruction project, set up Github repository
+    added users to both Github repositories
+
+2013.09.28
+    showed members various common image processing techniques such as thresholding and edge detection for use in our document reconstruction project
+    announced upcoming ACM events for next week
+    worked on document reconstruction: able to load and display an image in a window, decided on an image processing pipeline, and split up research tasks
