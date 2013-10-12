@@ -48,3 +48,16 @@
     showed members various common image processing techniques such as thresholding and edge detection for use in our document reconstruction project
     announced upcoming ACM events for next week
     worked on document reconstruction: able to load and display an image in a window, decided on an image processing pipeline, and split up research tasks
+
+2013.10.05
+    discussed some image processing techniques
+    split into two groups for blob detection and background removal
+    blob detection was partially implemented
+    the background removal group determined frequencies of colors in the original image
+
+2013.10.12
+    jumped straight into the document reconstruction project
+    blob detection logic was fixed
+    individual strips of paper are now put into separate images
+    came up with technique (background subtraction) to reduce the background's affect on the silhouettes of strips
+    documented background subtraction and added a diagram of the technique to the repository
