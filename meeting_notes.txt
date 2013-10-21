@@ -61,3 +61,8 @@
     individual strips of paper are now put into separate images
     came up with technique (background subtraction) to reduce the background's affect on the silhouettes of strips
     documented background subtraction and added a diagram of the technique to the repository
+
+2013.10.19
+    introduced members to videos by Jeff Hawkins, along with his book On Intelligence
+    split up the background subtraction algorithm into tasks
+    modified the UI framework to support a step-by-step pipeline
