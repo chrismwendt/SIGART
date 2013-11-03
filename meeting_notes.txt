@@ -71,3 +71,9 @@
     implemented background subtraction algorithm
     discussed ways to put individual pieces of paper together
     figured out how to draw translated and rotated images
+
+2013.11.02
+    wrote an edge detection image filter
+    wrote an image summing function
+    added a small blob removal step
+    created a step and framework for a shuffling solver
