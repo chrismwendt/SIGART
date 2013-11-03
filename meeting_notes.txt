@@ -67,7 +67,7 @@
     split up the background subtraction algorithm into tasks
     modified the UI framework to support a step-by-step pipeline
 
-2013.10.19
+2013.10.26
     implemented background subtraction algorithm
     discussed ways to put individual pieces of paper together
     figured out how to draw translated and rotated images
