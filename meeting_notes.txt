@@ -77,3 +77,13 @@
     wrote an image summing function
     added a small blob removal step
     created a step and framework for a shuffling solver
+
+2013.11.10
+    finished and abandoned the shuffling solver because it is so slow
+    brainstormed a new solver based on the curvature, or shape, of the pieces of paper
+    
+2013.11.16
+    wrote distance between point and line function
+    wrote line of best fit function
+    wrote a function which walks the edge of a blob
+    created a curvature solver step, work in progress
