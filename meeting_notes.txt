@@ -87,3 +87,9 @@
     wrote line of best fit function
     wrote a function which walks the edge of a blob
     created a curvature solver step, work in progress
+
+2013.11.23
+    finished the curvature solver, it has decent accuracy which might greatly benefit from building up the island, best piece at a time
+    fixed a bug in getting the largest blob which made the curvature solver more accurate
+    wrote a function to get the average color of neighboring pixels, will be used in matching edge colors
+    wrote a function to get the area of a piece, will be used in overlap calculations for error
