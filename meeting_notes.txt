@@ -93,3 +93,13 @@
     fixed a bug in getting the largest blob which made the curvature solver more accurate
     wrote a function to get the average color of neighboring pixels, will be used in matching edge colors
     wrote a function to get the area of a piece, will be used in overlap calculations for error
+
+2013.11.30
+    brainstormed improvements to the document reconstruction program
+    came up with a way to remove the dark edges around pieces of paper
+
+2013.12.07
+    last meeting of the semester
+    increased the accuracy of the perimeters of pieces by walking pixel borders instead of centers
+    talked about projects for next semester, likely to continue document reconstruction
+    discussed the need for a new leader next year
